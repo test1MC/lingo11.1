@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
+    <body>
+        <p>some text added here <MadCap:variable name="Variables.CompanyName" /></p>
+    </body>
+</html>

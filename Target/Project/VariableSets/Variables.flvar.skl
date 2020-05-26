@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+    <Variable Comment="" Name="CompanyName" EvaluatedDefinition="google">砻קยด1ตว融</Variable>
+    <Variable Comment="" Name="PhoneNumber">砻קยด2ตว融</Variable>
+    <Variable Name="CompanyName" Comment="" EvaluatedDefinition="trump0000">砻קยด3ตว融</Variable>
+</CatapultVariableSet>

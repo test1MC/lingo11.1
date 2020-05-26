@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="google">google</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber">858 123 4567</Variable>
+  <Variable
+    Name="CompanyName"
+    Comment=""
+    EvaluatedDefinition="trump0000">trump0000</Variable>
+</CatapultVariableSet>
